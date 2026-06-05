@@ -1,0 +1,6 @@
+{
+  "name": "Jiffy's Portal",
+  "description": "Drivers portal for managing shift schedules, dispatching to customers, and tracking jobs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
